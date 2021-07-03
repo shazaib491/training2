@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "60a13411f2e16811cf9855de"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60a133dbf2e16811cf9855dd"
+  },
+  "productId": {
+    "$oid": "6089b2286ef0ec23b6b21265"
+  },
+  "p_price": 100,
+  "totalPrice": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a13501f2e16811cf9855e1"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60a133dbf2e16811cf9855dd"
+  },
+  "productId": {
+    "$oid": "6085c7a925e0631dd05418a3"
+  },
+  "p_price": 12,
+  "totalPrice": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a13561f2e16811cf9855e2"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60a133dbf2e16811cf9855dd"
+  },
+  "productId": {
+    "$oid": "6085c83f25e0631dd05418a4"
+  },
+  "p_price": 12,
+  "totalPrice": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1358cf2e16811cf9855e3"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60a133dbf2e16811cf9855dd"
+  },
+  "productId": {
+    "$oid": "6089b25f6ef0ec23b6b21266"
+  },
+  "p_price": 50,
+  "totalPrice": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a258a51d5004343a5bab1e"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60942d47d803f727f1a102c9"
+  },
+  "productId": {
+    "$oid": "6089b1f96ef0ec23b6b21264"
+  },
+  "p_price": 50,
+  "totalPrice": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a29ef01d5004343a5bab20"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60942d47d803f727f1a102c9"
+  },
+  "productId": {
+    "$oid": "6085c83f25e0631dd05418a4"
+  },
+  "p_price": 12,
+  "totalPrice": 48,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2a0d4de24cf6cd4b453cc"
+  },
+  "quantity": 2,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60942d47d803f727f1a102c9"
+  },
+  "productId": {
+    "$oid": "6089b13f6ef0ec23b6b21261"
+  },
+  "p_price": 50,
+  "totalPrice": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c3ad8340ea86110442044d"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "6095283d9ea93841d62fceaa"
+  },
+  "productId": {
+    "$oid": "6085c83f25e0631dd05418a4"
+  },
+  "p_price": 12,
+  "totalPrice": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c3ad9740ea86110442044e"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "6095283d9ea93841d62fceaa"
+  },
+  "productId": {
+    "$oid": "6089b13f6ef0ec23b6b21261"
+  },
+  "p_price": 50,
+  "totalPrice": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c953cefde346269609c01b"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60a2a33d61cbeb6d93184364"
+  },
+  "productId": {
+    "$oid": "6089b1a36ef0ec23b6b21262"
+  },
+  "p_price": 50,
+  "totalPrice": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c954f8fde346269609c01d"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60a2a33d61cbeb6d93184364"
+  },
+  "productId": {
+    "$oid": "6085c83f25e0631dd05418a4"
+  },
+  "p_price": 12,
+  "totalPrice": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c96191d39f693ff65b5239"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60a2a33d61cbeb6d93184364"
+  },
+  "productId": {
+    "$oid": "6089b13f6ef0ec23b6b21261"
+  },
+  "p_price": 50,
+  "totalPrice": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ddeb0f7430e46b53d45e3d"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60ddeae07430e46b53d45e3c"
+  },
+  "productId": {
+    "$oid": "6085c83f25e0631dd05418a4"
+  },
+  "p_price": 12,
+  "totalPrice": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ddec2c7430e46b53d45e40"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60ddeae07430e46b53d45e3c"
+  },
+  "productId": {
+    "$oid": "6085c7a925e0631dd05418a3"
+  },
+  "p_price": 12,
+  "totalPrice": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ddec2f7430e46b53d45e41"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60ddeae07430e46b53d45e3c"
+  },
+  "productId": {
+    "$oid": "6089b13f6ef0ec23b6b21261"
+  },
+  "p_price": 50,
+  "totalPrice": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ddec317430e46b53d45e42"
+  },
+  "quantity": 1,
+  "cartStatus": true,
+  "customerId": {
+    "$oid": "60ddeae07430e46b53d45e3c"
+  },
+  "productId": {
+    "$oid": "6089b1a36ef0ec23b6b21262"
+  },
+  "p_price": 50,
+  "totalPrice": 50,
+  "__v": 0
+}]

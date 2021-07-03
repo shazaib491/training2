@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "605168411c03f32975d8cc63"
+  },
+  "email": "shazaibisoft20@gmail.com",
+  "password": "$2a$10$NaCvqjfbI7uLVcwXcVRLr.h.LGgXrnu.EctVtV6gI4ANOMWc9nyUC",
+  "mobile": "8959883069",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605168d066504b2b0ce5ea50"
+  },
+  "email": "shazaibrehman127@gmail.com",
+  "password": "$2a$10$3C.cu4ZnHa34ewlf/01uZu5IkTSr7B9QbqA7qf/6EVCf.BQIKKOQq",
+  "mobile": "8959883069",
+  "__v": 0
+}]

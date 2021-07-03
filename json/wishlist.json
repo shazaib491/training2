@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "60ddeb6f7430e46b53d45e3e"
+  },
+  "customerId": {
+    "$oid": "60ddeae07430e46b53d45e3c"
+  },
+  "productId": {
+    "$oid": "6085c7a925e0631dd05418a3"
+  },
+  "quantity": 1,
+  "totalPrice": 12,
+  "__v": 0
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "60846fc81ee6e3248262962e"
+  },
+  "catename": "fruits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60846fe81ee6e3248262962f"
+  },
+  "catename": "vegetable",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608473905b1dc92bf054ea66"
+  },
+  "catename": "Almondsss",
+  "__v": 0
+}]

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "60c960e6b2904f3e4571a303"
+  },
+  "paymentResponse": false,
+  "cartIds": [
+    "60c953cefde346269609c01b",
+    "60c954f8fde346269609c01d",
+    "60c96191d39f693ff65b5239"
+  ],
+  "customerId": {
+    "$oid": "60a2a33d61cbeb6d93184364"
+  },
+  "fname": "root",
+  "email": "rooter123@gmail.com",
+  "mobile": "8959883069",
+  "totalAmount": 206,
+  "discount": 6,
+  "createAt": {
+    "$date": "2021-06-16T02:24:38.118Z"
+  },
+  "__v": 0,
+  "address": null
+}]

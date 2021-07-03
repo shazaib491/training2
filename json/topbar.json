@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6058aa44bdc34b4d1008eed6"
+  },
+  "email": "newPost@gmail.com",
+  "mobile": "9632587411",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605a3d2a8754f323d11816b1"
+  },
+  "email": "sdfdsf",
+  "mobile": "9300643389",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605a3fdd8754f323d11816b2"
+  },
+  "email": "new bar",
+  "mobile": "8959883069",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b961485666b169d67f841"
+  },
+  "email": "jammu@gmail.com",
+  "mobile": "7412589633",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8721a0b1f317aee1f061"
+  },
+  "email": "admin@gmail.com",
+  "mobile": "7412589632",
+  "__v": 0
+}]

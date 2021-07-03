@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6085c7a925e0631dd05418a3"
+  },
+  "status": false,
+  "p_img": "http://localhost:3000/images/p-r-o-d-u-c-t---1-1-.-j-p-g1619380316662.jpg",
+  "p_name": "onion",
+  "p_disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, eum sit? Repudiandae omnis, ipsam repellendus quia, atque",
+  "category": "vegetable",
+  "p_price": 12,
+  "discount": 2,
+  "stock": "kg",
+  "stock_range": 122,
+  "__v": 0,
+  "wishlistStatus": false
+},{
+  "_id": {
+    "$oid": "6085c83f25e0631dd05418a4"
+  },
+  "status": false,
+  "p_img": "http://localhost:3000/images/i-m-a-g-e-_-2-.-j-p-g1619380287036.jpg",
+  "p_name": "matr",
+  "p_disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, eum sit? Repudiandae omnis, ipsam repellendus quia, atque",
+  "category": "vegetable",
+  "p_price": 12,
+  "discount": 2,
+  "stock": "kg",
+  "stock_range": 50,
+  "__v": 0,
+  "wishlistStatus": false
+},{
+  "_id": {
+    "$oid": "6089b13f6ef0ec23b6b21261"
+  },
+  "status": false,
+  "p_img": "http://localhost:3000/images/p-r-o-d-u-c-t---1-0-.-j-p-g1619636543826.jpg",
+  "p_name": "Apple",
+  "p_disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, eum sit? Repudiandae omnis, ipsam repellendus quia, atque ",
+  "category": "fruits",
+  "p_price": 50,
+  "discount": 2,
+  "stock": "kg",
+  "stock_range": 100,
+  "__v": 0,
+  "wishlistStatus": false
+},{
+  "_id": {
+    "$oid": "6089b1a36ef0ec23b6b21262"
+  },
+  "status": false,
+  "p_img": "http://localhost:3000/images/p-r-o-d-u-c-t---7-.-j-p-g1619636643857.jpg",
+  "p_name": "radish",
+  "p_disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, eum sit? Repudiandae omnis, ipsam repellendus quia, atque",
+  "category": "vegetable",
+  "p_price": 50,
+  "discount": 2,
+  "stock": "kg",
+  "stock_range": 100,
+  "__v": 0,
+  "wishlistStatus": false
+},{
+  "_id": {
+    "$oid": "6089b1d06ef0ec23b6b21263"
+  },
+  "status": false,
+  "p_img": "http://localhost:3000/images/p-r-o-d-u-c-t---6-.-j-p-g1619636688508.jpg",
+  "p_name": "cabage",
+  "p_disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, eum sit? Repudiandae omnis, ipsam repellendus quia, atque",
+  "category": "vegetable",
+  "p_price": 20,
+  "discount": 3,
+  "stock": "kg",
+  "stock_range": 122,
+  "__v": 0,
+  "wishlistStatus": false
+},{
+  "_id": {
+    "$oid": "6089b1f96ef0ec23b6b21264"
+  },
+  "status": false,
+  "p_img": "http://localhost:3000/images/p-r-o-d-u-c-t---3-.-j-p-g1619636729451.jpg",
+  "p_name": "matr",
+  "p_disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, eum sit? Repudiandae omnis, ipsam repellendus quia, atque",
+  "category": "vegetable",
+  "p_price": 50,
+  "discount": 2,
+  "stock": "kg",
+  "stock_range": 100,
+  "__v": 0,
+  "wishlistStatus": false
+},{
+  "_id": {
+    "$oid": "6089b2286ef0ec23b6b21265"
+  },
+  "status": false,
+  "p_img": "http://localhost:3000/images/c-a-t-e-g-o-r-y---4-.-j-p-g1619636776113.jpg",
+  "p_name": "Almonnds",
+  "p_disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, eum sit? Repudiandae omnis, ipsam repellendus quia, atque",
+  "category": "Almondsss",
+  "p_price": 100,
+  "discount": 2,
+  "stock": "qt",
+  "stock_range": 200,
+  "__v": 0,
+  "wishlistStatus": false
+},{
+  "_id": {
+    "$oid": "6089b25f6ef0ec23b6b21266"
+  },
+  "status": false,
+  "p_img": "http://localhost:3000/images/c-a-t-e-g-o-r-y---2-.-j-p-g1619636831070.jpg",
+  "p_name": "Strawbery",
+  "p_disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, eum sit? Repudiandae omnis, ipsam repellendus quia, atque",
+  "category": "fruits",
+  "p_price": 50,
+  "discount": 2,
+  "stock": "kg",
+  "stock_range": 100,
+  "__v": 0,
+  "wishlistStatus": false
+}]
