@@ -4,73 +4,71 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 
 <body>
-    <ol type="A">
-        <li>name</li>
-        <li>address</li>
-        <li>mobile/li>
-        <li>pin</li>
-        <li>gender</li>
-    </ol>
-<ul type="circle">
-    <li>name</li>
-    <li>address</li>
-    <li>mobile</li>
-    <li>pin</li>
-    <li>gender</li>
-</ul>
-<dl>
-    <dt>noun</dt>
-    <dd>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto excepturi, minus libero velit, minima explicabo nihil ex facere eius aspernatur perspiciatis? Repellat, qui provident laborum placeat minima mollitia porro aut.</dd>
-</dl>
-<table>
-    <tr>
-        <th>name</th>
-        <th>address</th>
-        <th>mobile</th>
-        <th>gender</th>
-    </tr>
-    <tr>
-        <td>anil</td>
-        <td>peerget</td>
-        <td>7045889</td>
-        <td>male</td>
 
-    </tr>
-</table>
-<table bgcolor="red" align="center" border="5px">
-    <thead>
-        <th>name</th>
-        <th>address</th>
-        <th>mobile</th>
-        <th>gender<th>
-    </thead>
-    <tbody>
-        <tr>
-        <td>anil</td>
-        <td>peerget</td>
-        <td>70582585</td>
-        <td>male</td>
-</tr>
-<tr>
-    <td rowspan="2">aman</td>
-    <td>budhwara</td>
-    <td>7586425</td>
-    <td>male</td>
-</tr>
-<tr>
-    <td colspan="2">budhwara</td>
-    <td>male</td>
-</tr>
-</tbody>
-<tfoot>
-    <th colspan="5">Created by </th>
-</tfoot>
-</table>
+    <!-- advanced html table -->
+    <!-- tr table row -->
+    <!-- th===td table column or table data -->
+    <table border="1" cellspacing="10px" cellpadding="10px" align="center" width="50%" bgcolor="grey">
+        <caption>Employee Records</caption>
+        <thead>
+            <!-- table header -->
+            <tr>
+                <th align="center">Name</th>
+                <th align="center">Stnno</th>
+                <th align="center">Dep</th>
+                <th align="center">Dob</th>
+                <th align="center">Salary</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <!-- main section table body  -->
+            <tr>
+                <td>shahzaib</td>
+                <td>1234</td>
+                <td>Sales</td>
+                <td>12/85/2000</td>
+                <td>5000</td>
+            </tr>
+            <tr>
+                <td>Sarim</td>
+                <td>12345</td>
+                <td>worker</td>
+                <td>12/85/2000</td>
+                <td>5000</td>
+            </tr>
+            <tr>
+                <td>Sarim</td>
+                <td>12345</td>
+                <td>worker</td>
+                <td>12/85/2000</td>
+                <td>5000</td>
+            </tr>
+            <tr>
+                <td>Sarim</td>
+                <td>12345</td>
+                <td rowspan="2">Digital Marketer</td>
+                <td>12/85/2000</td>
+                <td>5000</td>
+            </tr>
+            <tr>
+                <td>Rishubh</td>
+                <td>12345</td>
+                <td colspan="2">12/85/2000</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="5" align="right">Copyright@2004</th>
+            </tr>
+        </tfoot>
+
+    </table>
 </body>
 
 </html>
