@@ -5,217 +5,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Forms</title>
+    <title>Html Forms</title>
 </head>
 
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li>Login</li>
-                <li>Register</li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-        <section>
-            <div>
-                <h1 align="center">RS INSTITUTE</h1>
-            </div>
-            <form action="" method="GET" style="width: 100px;margin:auto">
-                <iframe src="https://www.youtube.com/watch?v=0JlGAGzhr4Q&list=PLC5vixW_4xSJdkqR1p33QblRLqYcSPhzG" frameborder="0"></iframe>
-                <fieldset>
-                    <legend>forms</legend>
-                    <table cellpadding="20px">
-                        <tr>
-                            <td>
-                                <video controls width="200px">
-                                    <source src="./video/4. Angular Versions Explained.mp4" type="video/mp4">
-                                </video>
-                                <video autoplay muted width="200px" controls src="./video/4. Angular Versions Explained.mp4"></video>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <audio controls src="./video/ertugrul-theme-song-dubbed-in-urdu.mp3"></audio>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><label for="">
-                                    <font size="4px" color="red">
-                                        Username
-                                    </font>
-                                </label>
-                                
-                            
-                            </td>
-                            <td><input type="text" size="50"  pattern="[A-Za-z]{3}" name="uname" value="Riyaz Mansoori" autofocus placeholder="Enter name" id="" required></td>
-                        </tr>
-                        <tr>
-                            <td><label for="">Email</label></td>
-                            <td><input type="text" name="email" value="" disabled placeholder="Enter name" id=""></td>
-                        </tr>
-                        <tr>
-                            <td><label for="">Gender</label></td>
-                            <td><input type="radio" name="gender" value="M" id="">Male
-                                <input type="radio" name="gender" value="F" id="">Female
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><label for="">Courses</label></td>
-                            <td>
-                                <input type="checkbox" name="English" value="M" id="">English
-                                <input type="checkbox" name="hindi" value="M" id="">hindi
-                                <input type="checkbox" name="Math" value="M" id="">Math
-                                <input type="checkbox" name="Scince" value="M" id="">Scince
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="">City</label>
-
-                            </td>
-                            <td>
-                                <select name="city" id="">
-                                    <option value="Indore">Indore</option>
-                                    <option value="Bhopal">Bhopal</option>
-                                    <option value="Ujjain">Ujjain</option>
-                                    <option value="Raisen">Raisen</option>
-                                </select>
-                            </td>
-
-                        </tr>
-                        <tr>
-                            <td>Enter Cars</td>
-                            <td>
-                                <label for="cars">Choose a car:</label>
-                                <select name="cars" id="cars">
-                                    <optgroup label="Swedish Cars">
-                                        <option value="volvo">Volvo</option>
-                                        <option value="saab">Saab</option>
-                                    </optgroup>
-                                    <optgroup label="German Cars">
-                                        <option value="mercedes">Mercedes</option>
-                                        <option value="audi">Audi</option>
-                                    </optgroup>
-                                </select>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-
-                                <label for="">Items</label>
-                            </td>
-                            <td>
-                                <input list="riyaz">
-                                <datalist id="riyaz">
-                                    <option value="Edge">
-                                    <option value="Firefox">
-                                    <option value="Chrome">
-                                    <option value="Opera">
-                                    <option value="Safari">
-                                </datalist>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>Color</td>
-                            <td>
-                                <input type="color" name="color">
-                            </td>
-                        <tr>
-                            <td>date</td>
-                            <td>
-                                <input type="date">
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="">Local Date</label>
-                            </td>
-                            <td>
-                                <input type="datetime-local">
-
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="">Comments</label>
-                            </td>
-                            <td>
-                                <textarea name="comments" id="" cols="30" rows="10"></textarea>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                Image
-                            </td>
-                            <td>
-                                <input type="file">
-
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                Image
-                            </td>
-                            <td>
-                                <input type="image" src="https://picsum.photos/200/300" alt="Submit" width="48" height="48">
-
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="2">
-                                <input type="submit" name="submit" value="Submit" />
-                                <input type="reset" name="reset" value="Reset" />
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><input type="hidden"></td>
-                        </tr>
-                        <tr>
-                            <td><input type="month" name="" id=""></td>
-                        </tr>
-                        <tr>
-                            <td><input type="range" name="" id=""></td>
-                        </tr>
-                        <tr>
-                            <td><input type="search">
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <input type="tel" name="" id="">
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                            <label for="">Mobile</label>
-                                
-                                <input type="number"  min="1" max="50" maxlength="12" id=""></td>
-                        </tr>
-                    
-                        <tr>
-                            <td>
-                                <input type="time" name="" id="">
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <input type="url" name="" id="">
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><input type="week" name="" id=""></td>
-                        </tr>
-                    </table>
-                </fieldset>
-
-            </form>
-        </section>
-    </main>
-    <footer>
-
-    </footer>
+    <form action="#" method="POST">
+        <!-- Get normal detail 1gb  not secure -->
+        <!-- POST Imp detail unlimited   secure -->
+        <label>Name</label>
+        <input type="text" name="name" value="Vikas sharmu" disabled placeholder="Enter name" >
+        <br />
+        <label>Email</label>
+        <input type="email" name="email">
+        <br />
+        <label>Password</label>
+        <input type="password" name="password">
+        <br />
+        <label>Gender</label>
+        <input type="radio" name="gender" id="">M
+        <input type="radio" name="gender" id="">F
+        <!-- pairing -->
+        <br />
+        <label for="">Course</label>
+        <input type="checkbox" name="" id="">English
+        <input type="checkbox" name="" id="">Hindi
+        <input type="checkbox" name="" id="">Maths
+        <input type="submit" value="Submit">
+    </form>
 </body>
 
 </html>
