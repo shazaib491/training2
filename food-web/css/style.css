@@ -1,0 +1,27 @@
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+}
+li{
+    display: inline-block;
+
+}
+li > a{
+color: white;
+text-decoration:none;
+display: block;
+padding: 16px 10px;
+}
+li a:hover{
+    background-color: red;
+    
+}
+
+.pos{
+    border: 1px solid red;
+    position: relative;
+    left:25px;
+    bottom:150px;
+}
